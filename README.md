@@ -1,2 +1,2 @@
 # Regex Adventure
-![regex](image/regex.png)
+![regex](images/regex.png)
