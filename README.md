@@ -6,3 +6,6 @@
 
 # Paiza Git入門
 ![paiza](assets/paiza.png)
+
+# Learn Git 
+![learn](assets/learn.png)
